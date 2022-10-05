@@ -1,0 +1,4 @@
+[0429/190719.379:INFO:CONSOLE(9)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/_King_/Desktop/Krnl%20staff%20site/Krnl/Ticket%20system/index.html (9)
+[0429/190846.088:INFO:CONSOLE(9)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/_King_/Desktop/Krnl%20staff%20site/Krnl/Ticket%20system/index.html (9)
+[0429/193143.156:ERROR:display.cc(305)] Frame latency is negative: -1.525 ms
+[0621/171934.502:ERROR:component_installer.cc(355)] Failed to read manifest or verify installation for Widevine Content Decryption Module (C:\Users\Guill\AppData\Local\CEF\User Data\WidevineCdm\4.10.2391.0).: Le chemin d’accès spécifié est introuvable. (0x3)
